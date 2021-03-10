@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yuangauss.xyz/posts/9594/</loc>
+    
+    <lastmod>2021-03-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yuangauss.xyz/about/index.html</loc>
     
     <lastmod>2020-08-25</lastmod>
@@ -9,14 +16,14 @@
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/gallery/index.html</loc>
+    <loc>http://yuangauss.xyz/extension/content.json</loc>
     
     <lastmod>2020-08-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/extension/content.json</loc>
+    <loc>http://yuangauss.xyz/gallery/index.html</loc>
     
     <lastmod>2020-08-25</lastmod>
     
@@ -44,6 +51,13 @@
   </url>
   
   <url>
+    <loc>http://yuangauss.xyz/records/index.html</loc>
+    
+    <lastmod>2020-08-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yuangauss.xyz/records/content.json</loc>
     
     <lastmod>2020-08-25</lastmod>
@@ -52,13 +66,6 @@
   
   <url>
     <loc>http://yuangauss.xyz/resume/index.html</loc>
-    
-    <lastmod>2020-08-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/records/index.html</loc>
     
     <lastmod>2020-08-25</lastmod>
     
@@ -93,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/extension/resume/english/data.json</loc>
+    <loc>http://yuangauss.xyz/extension/resume/chinese/data.json</loc>
     
     <lastmod>2020-08-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/extension/resume/chinese/data.json</loc>
+    <loc>http://yuangauss.xyz/extension/resume/english/data.json</loc>
     
     <lastmod>2020-08-25</lastmod>
     
@@ -110,13 +117,6 @@
     <loc>http://yuangauss.xyz/posts/4785/</loc>
     
     <lastmod>2020-06-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/posts/4759/</loc>
-    
-    <lastmod>2020-05-28</lastmod>
     
   </url>
   
@@ -149,13 +149,6 @@
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/posts/49651/</loc>
-    
-    <lastmod>2020-04-15</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yuangauss.xyz/posts/8716/</loc>
     
     <lastmod>2020-04-10</lastmod>
@@ -163,58 +156,9 @@
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/posts/64366/</loc>
-    
-    <lastmod>2020-02-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/posts/26104/</loc>
-    
-    <lastmod>2020-02-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/posts/64322/</loc>
-    
-    <lastmod>2019-12-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/posts/2141/</loc>
-    
-    <lastmod>2019-06-19</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/posts/51385/</loc>
-    
-    <lastmod>2019-02-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yuangauss.xyz/posts/12019/</loc>
     
     <lastmod>2019-01-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/posts/218/</loc>
-    
-    <lastmod>2019-01-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/posts/9628/</loc>
-    
-    <lastmod>2018-12-01</lastmod>
     
   </url>
   
@@ -226,27 +170,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://yuangauss.xyz/tags/Test/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/tags/Mustom/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/tags/Command/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://yuangauss.xyz/tags/HTTP/</loc>
@@ -263,34 +186,6 @@
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/tags/Links/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/tags/Oracle/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/tags/SQL/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/tags/SFWRTECH-3IT3/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yuangauss.xyz/tags/%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
@@ -299,20 +194,6 @@
   
   <url>
     <loc>http://yuangauss.xyz/tags/%E6%8A%BD%E8%B1%A1%E6%95%B0%E6%8D%AE%E7%B1%BB/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/tags/%E7%BA%BF%E6%80%A7%E8%A1%A8/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/tags/List/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -361,21 +242,21 @@
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/tags/old-blog/</loc>
+    <loc>http://yuangauss.xyz/tags/%E7%BA%BF%E6%80%A7%E8%A1%A8/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/tags/diary/</loc>
+    <loc>http://yuangauss.xyz/tags/List/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/tags/2048/</loc>
+    <loc>http://yuangauss.xyz/tags/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -395,52 +276,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://yuangauss.xyz/tags/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>http://yuangauss.xyz/categories/Blog/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/categories/Hexo/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://yuangauss.xyz/categories/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/categories/Note/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/categories/Markdown/</loc>
-    <lastmod>2021-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yuangauss.xyz/categories/Lab/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -454,14 +293,14 @@
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/categories/Blog/Plugin/</loc>
+    <loc>http://yuangauss.xyz/categories/Blog/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yuangauss.xyz/categories/Note/SQL/</loc>
+    <loc>http://yuangauss.xyz/categories/Blog/Plugin/</loc>
     <lastmod>2021-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
